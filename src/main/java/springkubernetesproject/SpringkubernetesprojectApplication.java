@@ -10,7 +10,7 @@ public class SpringkubernetesprojectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringkubernetesprojectApplication.class, args);
 		System.out.println("Hello Kubernetes and Docker");
-		System.out.println("I am learning DevOps");
+		System.out.println("I am learning DevOps and cloud");
 		
 	}
 
