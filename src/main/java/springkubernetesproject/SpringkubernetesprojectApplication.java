@@ -9,7 +9,7 @@ public class SpringkubernetesprojectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringkubernetesprojectApplication.class, args);
-		System.out.println("Hello Kubernetes");
+		System.out.println("Hello Kubernetes and Docker");
 		
 	}
 
